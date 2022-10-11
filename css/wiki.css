@@ -1,0 +1,41 @@
+*{
+background: yellow;
+margin: 40px;
+}
+
+.cuadro{
+    border: 1px solid ;
+    text-align: center;
+    padding: 15px;
+}
+
+.titulo{
+    text-align: center;
+    background-color: rgb(166, 197, 255);
+}
+
+.imagen{
+    margin-bottom: 10;
+}
+.link1{
+    text-align: center;
+    margin: 0;
+}
+
+.parrafos{
+    text-align: center;
+}
+.parrafo2{
+    margin-left: 275px;
+    text-align: start;
+
+}
+
+.cambiando{
+    background-color: red;
+}
+
+.cambiando:hover{
+    background-color: green;
+}
+
